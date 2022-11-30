@@ -6,8 +6,7 @@ ___
 
 En este repositorio se encuentran los archivos necesarios para replicar el prototipo desarrollado por Emilio Carmona Flores para su Tesis de licenciatura.
 
-
-Los archivos 
+Para encontrar los archivos estan dispuestos de la siguiente manera:
 
 Los archivos para el PCB se encuentran en el folder **PCB_Design**. 
 Los archivos 3MF y STL para la carcasa se encuentran en el folder **3D_Design**. 
