@@ -17,9 +17,9 @@ Los archivos con las libretras de Jupyter utilizadas para el experimento y proce
 
 
 ## Autor
-*Carmona Flores Emilio
+* Carmona Flores Emilio
 
-#Reconocimientos
+# Reconocimientos
 Este trabajo no hubiera sido posible sin la colaboración de (orden alfabético):
 
 
