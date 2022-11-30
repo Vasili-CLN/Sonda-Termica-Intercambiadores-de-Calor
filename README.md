@@ -16,10 +16,10 @@ Los archivos con los codigos producidos para el funcionamiento del dispositivo s
 Los archivos con las libretras de Jupyter utilizadas para el experimento y procesado de datos se encuentran en el folder **Notebooks**
 
 
-## Autor
+# Autor
 * Carmona Flores Emilio
 
-# Reconocimientos
+## Reconocimientos
 Este trabajo no hubiera sido posible sin la colaboración de (orden alfabético):
 
 
