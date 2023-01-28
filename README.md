@@ -23,6 +23,6 @@ Los archivos con las libretras de Jupyter utilizadas para el experimento y proce
 Este trabajo no hubiera sido posible sin la colaboración de (orden alfabético):
 
 
-* Cortés Héctor Daniel
 * Barrios del Valle Guillermo
+* Cortés Héctor Daniel
 * Wong Loya Jorge Alejandro
